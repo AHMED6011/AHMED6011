@@ -10,7 +10,7 @@
 <strong>
 ⚡ HTML, HTML5 <br/>
 ⚡ CSS, CSS3 <br/>
-⚡ JavaScript, ECMAScript6 <br/>  jQuery<br/> 
+⚡ JavaScript, ECMAScript6,  jQuery<br/> 
 ⚡ SCSS <br/>
 ⚡ Bootstrap <br/>
  </strong>
