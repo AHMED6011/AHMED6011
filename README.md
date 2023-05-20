@@ -8,11 +8,14 @@
 
 <h2>✅ My Skill Keywords</h2>
 <strong>
-⚡ HTML, HTML5 <br/>
-⚡ CSS, CSS3 <br/>
-⚡ JavaScript, ECMAScript6,  jQuery<br/> 
+⚡ HTML5 <br/>
+⚡ CSS3 <br/>
+⚡ JavaScript <br/> 
+⚡ jQuery <br/>
 ⚡ SCSS <br/>
 ⚡ Bootstrap <br/>
+⚡ Github <br/>
+ 
  </strong>
 <br/>
 <br/>
