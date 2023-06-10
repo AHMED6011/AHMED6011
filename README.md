@@ -15,6 +15,7 @@
 ⚡ SCSS <br/>
 ⚡ Bootstrap <br/>
 ⚡ Github <br/>
+⚡ VueJs 2 & 3 <br/>
  
  </strong>
 <br/>
