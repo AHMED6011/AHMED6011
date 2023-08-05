@@ -16,6 +16,7 @@
 ⚡ Bootstrap <br/>
 ⚡ Github <br/>
 ⚡ VueJs 2 & 3 <br/>
+⚡ Tailwind <br/>
  
  </strong>
 <br/>
