@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi There! I'm Ahmed Allawi.</h2>
 
 <h2>✅ Overview</h2>
-<strong>I'm a front-end designer/develop  and landing pages, Passionate about creating visually appealing and engaging digital experiences..</strong>
+<strong>I'm a front-end designer/developer  and landing pages, Passionate about creating visually appealing and engaging digital experiences..</strong>
 <br/>
 <br/>
 <br/>
