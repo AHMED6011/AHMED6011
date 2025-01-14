@@ -17,6 +17,7 @@
 ⚡ Github <br/>
 ⚡ VueJs 2 & 3 <br/>
 ⚡ Tailwind <br/>
+⚡ NodeJS <br/>
  
  </strong>
 <br/>
